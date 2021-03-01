@@ -44,7 +44,7 @@ mpv user scripts: https://github.com/mpv-player/mpv/wiki/User-Scripts<br>
 JavaScript bug on Windows: https://github.com/shinchiro/mpv-winbuild-cmake/issues/76
  
 My scripts for mpv: https://github.com/linguisticmind/mpv-scripts<br>
-My mpv configs from this tutorial: https://github.com/linguisticmind/dotfiles/tree/c2253a957929b47e96039adc0d79c67b564b3740/mpv 
+My mpv configs from this tutorial: https://github.com/linguisticmind/dotfiles/tree/a7462e7e8ee18b235d23ef42ee36d4158d9bfbcb/mpv 
  
 ## Notes
  
