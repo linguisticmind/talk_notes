@@ -34,7 +34,7 @@ Main repo: https://github.com/linguisticmind/lmutils
 search-in-subs: https://github.com/linguisticmind/lmutils/blob/master/search-in-subs<br>
 fix-digits: https://github.com/linguisticmind/lmutils/blob/master/fix-digits
  
-macOS package management (MacPorts, Homebrew): <br>
+macOS package management (MacPorts, Homebrew): https://www.youtube.com/watch?v=vC6ykcyTzLg<br>
 Setting PATH tutorial (Corey Schafer): https://www.youtube.com/watch?v=PUIE7CPANfo&t=8m44s<br>
 Regular expressions tutorial (Corey Schafer) (also see notes below): https://www.youtube.com/watch?v=sa-TUpSx1JA 
  
