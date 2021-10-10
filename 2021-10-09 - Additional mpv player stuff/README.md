@@ -21,6 +21,16 @@ A follow-up video to my previous tutorial on mpv player. I talk about various in
 [32:29](https://www.youtube.com/watch?v=mGLHKogyDUs&t=32m29s "Loading multiple input.conf files (e.g. to set up additional keybindings for specific files etc.)") Loading multiple input.conf files (e.g. to set up additional keybindings for specific files etc.)<br>
 [42:57](https://www.youtube.com/watch?v=mGLHKogyDUs&t=42m57s "Outro") Outro
  
+## Links
+ 
+mpv manual: https://mpv.io/manual/stable/<br>
+Package management on MacOS: https://youtu.be/vC6ykcyTzLg <br>
+movies2anki tutorial: https://youtu.be/xXAQex2_i5o<br>
+Blackbox, Colorbox, Gallerizer, Leapfrog updated installation instructions (search for 'VideoPlayerCode Install-Notes' on that page): https://github.com/mpv-player/mpv/wiki/User-Scripts<br>
+Process substitution in Bash and zsh: <br>
+https://superuser.com/questions/1059781/what-exactly-is-in-bash-and-in-zsh<br>
+https://stackoverflow.com/questions/2443085/what-does-command-args-mean-in-the-shell
+ 
 ## Support Linguistic Mind
  
 Patreon: https://patreon.com/linguisticmind<br>
