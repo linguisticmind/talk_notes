@@ -31,6 +31,8 @@ Process substitution in Bash and zsh: <br>
 https://superuser.com/questions/1059781/what-exactly-is-in-bash-and-in-zsh<br>
 https://stackoverflow.com/questions/2443085/what-does-command-args-mean-in-the-shell
  
+My mpv configs from this tutorial: https://github.com/linguisticmind/dotfiles/tree/0bdc33638b1ffb7d02dced05e0eb133e636fd189/mpv
+ 
 ## Support Linguistic Mind
  
 Patreon: https://patreon.com/linguisticmind<br>
