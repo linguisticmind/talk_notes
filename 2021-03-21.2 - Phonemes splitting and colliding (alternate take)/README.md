@@ -25,4 +25,5 @@ TV Tropes – Sesquipedalian Loquaciousness: https://tvtropes.org/pmwiki/pmwiki.
  
 ## Support Linguistic Mind
  
-Patreon: https://patreon.com/linguisticmind
+Patreon: https://patreon.com/linguisticmind<br>
+Ko-fi: https://ko-fi.com/linguisticmind

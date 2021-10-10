@@ -67,4 +67,5 @@ Phonemes splitting and colliding (alternate take): https://www.youtube.com/watch
  
 ## Support Linguistic Mind
  
-Patreon: https://patreon.com/linguisticmind
+Patreon: https://patreon.com/linguisticmind<br>
+Ko-fi: https://ko-fi.com/linguisticmind

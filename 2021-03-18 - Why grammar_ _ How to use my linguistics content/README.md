@@ -12,4 +12,5 @@ In this video I talk about how one should think about grammar and language theor
  
 ## Support Linguistic Mind
  
-Patreon: https://patreon.com/linguisticmind
+Patreon: https://patreon.com/linguisticmind<br>
+Ko-fi: https://ko-fi.com/linguisticmind

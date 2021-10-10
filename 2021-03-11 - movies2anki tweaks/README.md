@@ -46,4 +46,5 @@ Anki file locations: https://docs.ankiweb.net/#/files?id=file-locations
  
 ## Support Linguistic Mind
  
-Patreon: https://patreon.com/linguisticmind
+Patreon: https://patreon.com/linguisticmind<br>
+Ko-fi: https://ko-fi.com/linguisticmind
