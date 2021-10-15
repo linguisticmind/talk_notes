@@ -20,7 +20,7 @@ On Linguistic Mind we talk a lot about various tech solutions to language learni
 [8:17](https://www.youtube.com/watch?v=vC6ykcyTzLg&t=8m17s "Some of the differences between MacPorts and Homebrew") Some of the differences between MacPorts and Homebrew<br>
 [14:35](https://www.youtube.com/watch?v=vC6ykcyTzLg&t=14m35s "Customized installation of MacPorts and Homebrew") Customized installation of MacPorts and Homebrew<br>
 [17:12](https://www.youtube.com/watch?v=vC6ykcyTzLg&t=17m12s "Instructions for installing to custom prefix on package managers' websites") Instructions for installing to custom prefix on package managers' websites<br>
-[19:44](https://www.youtube.com/watch?v=vC6ykcyTzLg&t=19m44s "My scripts for installing MacPorts and Homebrew to custom prefixes]") My scripts for installing MacPorts and Homebrew to custom prefixes]<br>
+[19:44](https://www.youtube.com/watch?v=vC6ykcyTzLg&t=19m44s "My scripts for installing MacPorts and Homebrew to custom prefixes") My scripts for installing MacPorts and Homebrew to custom prefixes<br>
 [20:02](https://www.youtube.com/watch?v=vC6ykcyTzLg&t=20m2s "port-install") port-install<br>
 [24:57](https://www.youtube.com/watch?v=vC6ykcyTzLg&t=24m57s "brew-install") brew-install<br>
 [26:14](https://www.youtube.com/watch?v=vC6ykcyTzLg&t=26m14s "Setting PATH and MANPATH variables") Setting PATH and MANPATH variables<br>
