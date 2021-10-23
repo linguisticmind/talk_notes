@@ -44,7 +44,8 @@ bab.la: https://bab.la<br>
 Forvo: https://forvo.com
  
 For links to other dictionaries from my bookmarks, use my 'bookmarks.html' file:<br>
-https://github.com/linguisticmind/talk_notes/blob/master/2021-10-26%20-%20Look%20up%20words%20in%20online%20dictionaries,%20fast%20_%20Top%205%20multilingual%20online%20dictionaries/bookmarks.html
+https://github.com/linguisticmind/talk_notes/blob/master/2021-10-26%20-%20Look%20up%20words%20in%20online%20dictionaries,%20fast%20_%20Top%205%20multilingual%20online%20dictionaries/bookmarks.html<br>
+(To download a single file from GitHub, find the 'Raw' button on the file's page—located in the panel right above the file's text, right click it, and click 'Save Link As...')
  
 ## Notes
  
